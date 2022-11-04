@@ -10,4 +10,5 @@ TEST_CASE("Solve Encrypted Caesar Shift"){
     CHECK(solve("Wkbdrk mkwo dy dro myxmvecsyx drkd crkuo gosqrdc kbo k qbokd qspd pyb kxi ymmkcsyx.") == "Martha came to the conclusion that shake weights are a great gift for any occasion.");
     CHECK(solve("Iwt hitcrw ugdb iwt uttsadi etgbtpits iwt rpg sthexit wpkxcv iwt pxg rdcsxixdcxcv dc gtrnrats pxg.") == "The stench from the feedlot permeated the car despite having the air conditioning on recycled air.");
     CHECK(solve("Lkeokj eru cnas pdnkqcd pda bajya pdau owez swo eilajapnwxha.") == "Poison ivy grew through the fence they said was impenetrable.");
+    CHECK(solve("byffi, qilfx. nby nbcha ypyls jlialuggyl wixym qbyh nbys uly fyulhcha u hyq fuhaouay") == "hello, world. the thing every programmer codes when they are learning a new language");
 }
